@@ -15,15 +15,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dotkarenas/supadb.git"
+    "url": "git+https://github.com/yasainet/supadb.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dotkarenas/supadb/issues"
+    "url": "https://github.com/yasainet/supadb/issues"
   },
-  "homepage": "https://github.com/dotkarenas/supadb#readme",
+  "homepage": "https://github.com/yasainet/supadb#readme",
   "devDependencies": {
     "@supabase/supabase-js": "^2.74.0",
     "@types/node": "^24.7.2",
