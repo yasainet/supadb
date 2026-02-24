@@ -186,6 +186,13 @@ data/
                     <sub><b>nasufuu</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/yasainet">
+                    <img src="https://avatars.githubusercontent.com/u/2123075?v=4" width="100;" alt="yasainet"/>
+                    <br />
+                    <sub><b>yasainet</b></sub>
+                </a>
+            </td>
 		</tr>
 	<tbody>
 </table>
